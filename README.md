@@ -1,5 +1,6 @@
-## Hi there 👋
+<div align="center">
 
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=LeeeSeungWoo&fontSize=50&animation=twinkling&fontAlign=75)
 <!--
 **SSeungWOOO/SSeungWOOO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
